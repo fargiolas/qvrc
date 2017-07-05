@@ -50,7 +50,7 @@ Options:
 ```
 
 ## screenshot
-![stag beetle dataset rendering](misc/screenshot.png "stag beetle dataset rendering")
+![stag beetle dataset rendering](misc/screenshot_small.png "stag beetle dataset rendering")
 
 ## about Qt, and C++ ##
 
