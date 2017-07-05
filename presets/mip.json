@@ -1,0 +1,31 @@
+{
+    "alpha_points": [
+        {
+            "alpha": 1,
+            "pos": 0
+        },
+        {
+            "alpha": 0,
+            "pos": 1
+        }
+    ],
+    "lut_points": [
+        {
+            "color": "#000000",
+            "pos": 0
+        },
+        {
+            "color": "#000000",
+            "pos": 0
+        },
+        {
+            "color": "#ffffff",
+            "pos": 1
+        },
+        {
+            "color": "#ffffff",
+            "pos": 1
+        }
+    ],
+    "name": "default"
+}
