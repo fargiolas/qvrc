@@ -1,0 +1,32 @@
+Not going to include any dataset here
+
+Some are available online though, here's something to experiment with
+
+You might have to get them through archive.org as academia is particulary bad
+at keeping old data available when doing website renovations
+
+Stented Abdominal Aorta
+512x512x174 12bit
+0.8398, 0.8398, 1.2
+http://www.gris.uni-tuebingen.de:80/edu/areas/scivis/volren/datasets/new.html
+
+Head MRT Angiography
+416x512x112
+0.412,0.412,0.412 10bit
+http://www.gris.uni-tuebingen.de:80/edu/areas/scivis/volren/datasets/new.html
+
+Backpack CT Scan
+512x512x373 12bit
+0.9766,0.9766,1.25
+http://www.gris.uni-tuebingen.de:80/edu/areas/scivis/volren/datasets/new.html
+
+Stag Beetle
+416x416x247 12bit
+1.0, 1.0, 0.68
+https://www.cg.tuwien.ac.at/research/publications/2005/dataset-stagbeetle/
+
+Visible Male CT data
+512x512x345 16bit
+1.0, 1.0, 0.674
+https://placid.nlm.nih.gov/community/21
+
